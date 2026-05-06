@@ -1,2 +1,2 @@
-# conference_cv
-adaptiveResolution
+# UNTUK CONFERENCE CV
+Adaptive Resolution
